@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-08-25T14:43:30.038Z",
-      "notes": "Test",
-      "position": {
-        "lat": "48.849448573754884",
-        "lng": "2.3497009277343754"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Amsterdam",
-      "country": "Netherlands (the)",
-      "emoji": "🇳🇱",
-      "date": "2023-08-25T14:45:18.955Z",
-      "notes": "Test 2",
-      "position": {
-        "lat": "52.36982285762113",
-        "lng": "4.890975952148438"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Arrens-Marsous",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-08-25T14:49:45.262Z",
-      "notes": "as",
-      "position": {
-        "lat": "42.95329958113158",
-        "lng": "-0.24874811779056263"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Arrens-Marsous",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-08-25T14:51:11.698Z",
-      "notes": "asdfa",
-      "position": {
-        "lat": "42.98343449839504",
-        "lng": "-0.2432681084823485"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Warta",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-08-25T14:52:24.777Z",
-      "notes": "sxa",
-      "position": {
-        "lat": "51.7277647795596",
-        "lng": "18.686254058290125"
-      },
-      "id": 98443202
     }
   ]
 }
